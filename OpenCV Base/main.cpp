@@ -6,7 +6,6 @@
 //  Copyright © 2016 Hotnewton. All rights reserved.
 //
 
-
 #include <opencv2/highgui/highgui.hpp>
 #include <opencv2/core/core.hpp>
 
